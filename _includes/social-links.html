@@ -102,8 +102,14 @@
     {% endif %}
 
     {% if site.mastodon %}
-        <a class="link" data-title="{{ site.mastodon }}" href="mailto:{{ site.mastodon }}">
+        <a class="link" data-title="{{ site.mastodon }}" href="{{ site.mastodon }}">
             <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.keybase %}
+        <a class="link" data-title="{{ site.keybase }}" href="https://keybase.io/{{ site.keybase }}">
+            <svg class="icon icon-keybase"><use xlink:href="#icon-keybase"></use></svg>
         </a>
     {% endif %}
 
