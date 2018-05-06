@@ -19,9 +19,9 @@ A superhero, developer, reader, author, foodie, and a Sunday-guitar-player; all 
 
 This is my own personal corner of the internet, where I play God, and share my two <a href="https://en.wikipedia.org/wiki/Indian_anna">aanas</a> of wisdom.
 
-<h2>Why do you call yourself a Cyborg?</h2>
+<h2>Why a Cyborg?</h2>
 
-I have a [dangerous thing](https://dangerousthings.com/) inside me. That technically makes me a cyborg.
+I have a <a href="https://dangerousthings.com/">dangerous thing</a> inside me. That technically makes me a cyborg.
 
 <h2>Skills</h2>
 
