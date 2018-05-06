@@ -2,45 +2,43 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<figure>
+<img src="{{ site.picture }}" alt="Amin Shah Gilani">
+<figcaption>Amin Shah Gilani</figcaption>
+<figure>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>About</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+A superhero, developer, reader, author, foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are always my own. I can successfully speak two languages (English and Urdu), and stammer an incoherent mixture of three others (Seraiki, Punjabi, and Gibberish). I hate spinach, and I like my steak medium-well.
+
+This is my own personal corner of the internet, where I play God, and share my two <a href="https://en.wikipedia.org/wiki/Indian_anna">aanas</a> of wisdom.
+
+<h2>Work</h2>
+<ul class="skill-list">
+	<li>CTO @ <a href="https://nazdeeq.com">Nazdeeq</a></li>
+	<li>Freelance Engineer & Publications Editor @ <a href="https://www.toptal.com#contract-just-respected-software-architects">Toptal</a></li>
+</ul>
+
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Css Frameworks (Semantic UI, Bootstrap)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>ReactJS</li>
+	<li>Webpack</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Ruby & Ruby on Rails</li>
+	<li>Postgresql</li>
+	<li>PostgreSQL - MongoDB</li>
+	<li>CI/CD</li>
+	<li>Docker</li>
+	<li>Kubernetes</li>
+	<li>Bitcoin</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+More? Check out my <a href="https://www.toptal.com/resume/amin-shah-gilani#contract-just-respected-software-architects">resume</a>.
