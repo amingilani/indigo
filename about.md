@@ -7,18 +7,21 @@ layout: page
 <figcaption>Amin Shah Gilani</figcaption>
 <figure>
 
-<h2>About</h2>
-
-A superhero, developer, reader, author, foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are always my own. I can successfully speak two languages (English and Urdu), and stammer an incoherent mixture of three others (Seraiki, Punjabi, and Gibberish). I hate spinach, and I like my steak medium-well.
-
-This is my own personal corner of the internet, where I play God, and share my two <a href="https://en.wikipedia.org/wiki/Indian_anna">aanas</a> of wisdom.
-
 <h2>Work</h2>
 <ul class="skill-list">
 	<li>CTO @ <a href="https://nazdeeq.com">Nazdeeq</a></li>
 	<li>Freelance Engineer & Publications Editor @ <a href="https://www.toptal.com#contract-just-respected-software-architects">Toptal</a></li>
 </ul>
 
+<h2>About</h2>
+
+A superhero, developer, reader, author, foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are always my own. I can successfully speak two languages (English and Urdu), and stammer an incoherent mixture of three others (Seraiki, Punjabi, and Gibberish). I hate spinach, and I like my steak medium-well.
+
+This is my own personal corner of the internet, where I play God, and share my two <a href="https://en.wikipedia.org/wiki/Indian_anna">aanas</a> of wisdom.
+
+<h2>Why do you call yourself a Cyborg?</h2>
+
+I have a [dangerous thing](https://dangerousthings.com/) inside me. That technically makes me a cyborg.
 
 <h2>Skills</h2>
 
