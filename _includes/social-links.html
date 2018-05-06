@@ -95,16 +95,23 @@
         </a>
     {% endif %}
 
+    {% if site.hackernews %}
+        <a class="link" data-title="{{ site.hackernews }}" href="https://news.ycombinator.com/user?id={{ site.hackernews }}">
+            <svg class="icon icon-hacker-news-square"><use xlink:href="#icon-hacker-news-square"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.mastodon %}
+        <a class="link" data-title="{{ site.mastodon }}" href="mailto:{{ site.mastodon }}">
+            <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
 
-    {% if site.hackernews %}
-        <a class="link" data-title="{{ site.hackernews }}" href="https://news.ycombinator.com/user?id={{ site.hackernews }}">
-            <svg class="icon icon-hacker-news-square"><use xlink:href="#icon-hacker-news-square"></use></svg>
-        </a>
-    {% endif %}
 
 </div>
