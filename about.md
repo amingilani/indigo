@@ -21,27 +21,27 @@ This is my own personal corner of the internet, where I play God, and share my t
 
 <h2>Why a Cyborg?</h2>
 
-I have a <a href="https://dangerousthings.com/">dangerous thing</a> inside me. That technically makes me a cyborg.
+I have a <a target="_blank" rel="noopener noreferrer" href="https://dangerousthings.com/">dangerous thing</a> inside me. That technically makes me a cyborg.
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Haml - Erb</li>
+	<li>HTML5 &mdash; Haml &mdash; ERB</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Semantic UI, Bootstrap)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>CSS3 (Sass)</li>
+	<li>CSS Frameworks (Semantic UI, Bootstrap, Bulma)</li>
+	<li>Javascript/ES6 (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
 	<li>ReactJS</li>
 	<li>Webpack</li>
-	<li>Git</li>
+	<li>Git &mdash; GitHub &mdash; GitLab</li>
 	<li>Ruby & Ruby on Rails</li>
 	<li>Postgresql</li>
-	<li>PostgreSQL - MongoDB</li>
+	<li>PostgreSQL &mdash; MongoDB</li>
 	<li>CI/CD</li>
 	<li>Docker</li>
 	<li>Kubernetes</li>
 	<li>Bitcoin</li>
+	<li>And lots more, check out my <a href="https://www.toptal.com/resume/amin-shah-gilani#contract-just-respected-software-architects">resume</a>.
+</li>
 </ul>
-
-More? Check out my <a href="https://www.toptal.com/resume/amin-shah-gilani#contract-just-respected-software-architects">resume</a>.
