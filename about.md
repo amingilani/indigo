@@ -9,16 +9,16 @@ layout: page
 
 <h2>About</h2>
 
-<p>
-A superhero, developer, reader, writer, foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are always my own. I can successfully speak two languages, I hate spinach, and I like my steak medium-well.
-</p>
-
 <h2>Currently</h2>
 <ul class="skill-list">
 	<li>CTO @ <a href="https://nazdeeq.com">Nazdeeq</a></li>
 	<li>Freelance Engineer & Publications Editor @ <a href="https://www.toptal.com#contract-just-respected-software-architects">Toptal</a></li>
 	<li><em>Past? Check out my <a href="https://www.toptal.com/resume/amin-shah-gilani#contract-just-respected-software-architects">resume</a>.</em></li>
 </ul>
+
+<p>
+A superhero, full-stack developer, reader, writer, foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are always my own. I can successfully speak two languages, I hate spinach, and I like my steak medium-well.
+</p>
 
 <h2>Things I've done</h2>
 
